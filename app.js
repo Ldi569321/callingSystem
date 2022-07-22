@@ -10,8 +10,8 @@ function btnClick1() {
         btnClickBack1.style.background = "rgb(219, 46, 46)";
         call.innerText = "연결중...";
         setTimeout(function () {
-            call.innerText = "김아무개"
-            callNumber.innerText = "010-XXXX-XXXX"
+            call.innerText = "권지민"
+            callNumber.innerText = "010-3342-8276"
         }, 2000);
         return connect = 1;
     } else if (connect == 1) {
